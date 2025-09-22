@@ -64,3 +64,11 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [ ] Price surge prediction using weather and event data
 - [ ] Time-series demand forecasting with ARIMA or Prophet
 - [ ] Comparison with Lyft dataset for competitive analysis
+
+## 💡 Sample Visualizations
+
+The notebook generates the following charts:
+- Hourly demand heatmap (hour × day of week)
+- Trip duration histogram with KDE
+- Ride purpose pie chart
+- Monthly trend line chart
