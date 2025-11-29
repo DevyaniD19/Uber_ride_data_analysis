@@ -1,3 +1,14 @@
+"""
+Uber Ride Data Analysis
+-----------------------
+Exploratory data analysis on Uber rides dataset.
+Covers demand trends, trip duration, ride purpose, and pickup patterns.
+
+Usage:
+    python data_analysis.py
+
+Author: Devyani Deore
+"""
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
