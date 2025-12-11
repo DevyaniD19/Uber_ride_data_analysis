@@ -46,3 +46,14 @@ jupyter notebook data_analysis.ipynb
 ## 📄 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+## 🔍 Analysis Sections
+
+| Section | Description |
+|---------|-------------|
+| Data Loading | Read CSV, parse dates, inspect shape |
+| Data Cleaning | Handle nulls, parse categorical fields |
+| Demand Analysis | Hourly, daily, and monthly ride counts |
+| Trip Distance | Distribution and outlier detection |
+| Purpose Analysis | Business vs. Personal ride breakdown |
+| Location Heatmap | Top start/stop categories |
