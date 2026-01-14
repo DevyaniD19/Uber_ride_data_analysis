@@ -57,3 +57,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 | Trip Distance | Distribution and outlier detection |
 | Purpose Analysis | Business vs. Personal ride breakdown |
 | Location Heatmap | Top start/stop categories |
+
+## 🔮 Future Work
+
+- [ ] Interactive map visualization of pickup/dropoff hotspots
+- [ ] Price surge prediction using weather and event data
+- [ ] Time-series demand forecasting with ARIMA or Prophet
+- [ ] Comparison with Lyft dataset for competitive analysis
